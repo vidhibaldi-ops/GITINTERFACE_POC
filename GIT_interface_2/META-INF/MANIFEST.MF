@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: GIT interface 2
 Bundle-SymbolicName: GIT_interface_2
-Bundle-Version: 1.0.1
+Bundle-Version: 1.0.4
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
